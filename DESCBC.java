@@ -2,7 +2,7 @@ package cryptography;
 
 import java.util.*;
 
-public class DES
+public class DESCBC
 {  
  
  public static void main(String[] argv) throws Exception
